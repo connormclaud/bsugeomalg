@@ -1,0 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
+Pipfile.lock
+.idea/
+.ipynb_checkpoints/
